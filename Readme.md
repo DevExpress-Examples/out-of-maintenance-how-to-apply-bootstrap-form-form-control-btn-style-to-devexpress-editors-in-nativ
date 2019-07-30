@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to apply Bootstrap Form (form-control, btn) style to DevExpress editors in Native mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t263405)**
+**[[Run Online]](https://codecentral.devexpress.com/t263405/)**
 <!-- run online end -->
 
 
